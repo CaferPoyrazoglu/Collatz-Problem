@@ -1,3 +1,2 @@
-# Collatz-Problemi
-# Cafer Erhan Poyrazoglu
-# 1721012062
+# Collatz-Problem
+
